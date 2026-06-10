@@ -1,6 +1,7 @@
 **# Event-Management-System-For-MMCOE**
 A web-based College Event Management System that allows students to explore, register, and participate in campus events while enabling administrators to manage events, participants, and reports through a centralized platform.
 **A web-based College Event Management System that allows students to explore, register, and participate in campus events while enabling administrators to manage events, participants, and reports through a centralized platform.**
+
 🚀 Features:-
 **👨‍🎓 Student / Participant**
 User signup and login
@@ -11,6 +12,7 @@ Track registered events
 Receive event reminders
 Download participation certificates
 View event gallery
+
 **🧑‍💼 Admin / Organizer:-**
 Secure admin login
 Add new events
@@ -21,6 +23,7 @@ Approve or reject registrations
 Track seat availability
 Generate event reports
 Upload gallery images
+
 **🖥️ Pages Included**
 Home Page
 Events Page
@@ -31,6 +34,7 @@ Admin Dashboard
 Gallery Page
 Contact Page
 Login / Signup Page
+
 **🛠️ Tech Stack**
 Frontend
 HTML
@@ -41,6 +45,7 @@ Backend
 PHP
 Database
 MySQL
+
 **🗄️ Database Features
 **
 The database supports:
@@ -51,10 +56,12 @@ Attendance tracking
 Certificates
 Gallery storage
 Contact messages
+
 **⚙️ Installation & Setup**
 Prerequisites
 XAMPP installed
 Web browser 
+
 **Future Enhancements**
 Email notifications
 Mobile application
