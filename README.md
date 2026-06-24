@@ -69,3 +69,4 @@ Mobile application
 Online payment integration
 QR code entry system
 Feedback and rating system
+email verification
