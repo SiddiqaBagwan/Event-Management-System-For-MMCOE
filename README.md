@@ -4,6 +4,7 @@ A web-based College Event Management System that allows students to explore, reg
 **A web-based College Event Management System that allows students to explore, register, and participate in campus events while enabling administrators to manage events, participants, and reports through a centralized platform.**
 
 🚀** **Features**:-**
+
 **👨‍🎓 Student / Participant**
 User signup and login
 Explore upcoming and past events
