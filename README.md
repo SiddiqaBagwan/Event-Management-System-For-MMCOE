@@ -60,11 +60,13 @@ Gallery storage
 Contact messages
 
 **⚙️ Installation & Setup**
+
 Prerequisites
 XAMPP installed
 Web browser 
 
 **Future Enhancements**
+
 Email notifications
 Mobile application
 Online payment integration
